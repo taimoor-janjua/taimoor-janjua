@@ -10,9 +10,9 @@
 
 <br />
 
-Hi, I'm Taimoor, an experienced Full Stack developer having more than 9 years of solid development / consulting experience in different software domains, currenlty working as Principal Consultant on Microsoft .Net platform. Implementing solutions / providing consultancy to clients in different domains.. 
+Hi, I'm Taimoor, an experienced Full Stack developer having more than 10 years of solid development / consulting experience in different software domains, currenlty working as Consultant at @Microsoft .Net platform and Azure Cloud. Implementing solutions / providing consultancy to clients in different domains... 
 
-In recent times I have worked with some renown Banks / Financial Institutions in Germany. Implemented and developed solutions / products that helped to optimise business operations.
+In recent times I have worked with some renown Banks / Financial Institutions / Automotive and Manufacturing sector in Germany. Implemented and developed solutions / products that helped to optimise business operations.
 
 Ability to understand customer needs, manage stakeholders, propose / develop and implement efficient solutions.
 
